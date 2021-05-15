@@ -24,7 +24,7 @@ html::-webkit-scrollbar-thumb {
 
 }
 body{
-    background: #326c7e, url(../img/b.png);
+    background: #326c7e, url(../img/b1.png);
     background: -webkit-linear-gradient(to left, rgba(84, 141, 163, 0.827), rgb(50, 108, 126, 0.7), #1e4a5cd7), url(../img/b1.png);
     background: linear-gradient(to left, rgba(84, 141, 163, 0.827), rgb(50, 108, 126, 0.7), #1e4a5cd7), url(../img/b1.png); 
     background-repeat:repeat-y;
