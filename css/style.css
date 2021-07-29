@@ -796,6 +796,7 @@ body.touch .submenu.open{
     -ms-flex: 0 0 auto;
         flex: 0 0 auto;
     padding-bottom: 2em;
+    position: relative;
 }
 .footer-social a,
 .footer-number a{
